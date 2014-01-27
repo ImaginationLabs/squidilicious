@@ -1,0 +1,9 @@
+C:\Users\Conductus\Documents\GitHub\squidilicious\project\bin\Debug\project.exe
+C:\Users\Conductus\Documents\GitHub\squidilicious\project\bin\Debug\project.pdb
+C:\Users\Conductus\Documents\GitHub\squidilicious\project\bin\Debug\Lidgren.Network.dll
+C:\Users\Conductus\Documents\GitHub\squidilicious\project\bin\Debug\MonoGame.Framework.dll
+C:\Users\Conductus\Documents\GitHub\squidilicious\project\bin\Debug\OpenTK.dll
+C:\Users\Conductus\Documents\GitHub\squidilicious\project\bin\Debug\Tao.Sdl.dll
+C:\Users\Conductus\Documents\GitHub\squidilicious\project\obj\Debug\project.csprojResolveAssemblyReference.cache
+C:\Users\Conductus\Documents\GitHub\squidilicious\project\obj\Debug\project.exe
+C:\Users\Conductus\Documents\GitHub\squidilicious\project\obj\Debug\project.pdb

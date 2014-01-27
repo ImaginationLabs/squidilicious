@@ -1,9 +1,0 @@
-C:\Users\Conductus\Documents\GitHub\squidilicious\project\project\bin\WindowsGL\Debug\SDL.dll
-C:\Users\Conductus\Documents\GitHub\squidilicious\project\project\bin\WindowsGL\Debug\project.exe
-C:\Users\Conductus\Documents\GitHub\squidilicious\project\project\bin\WindowsGL\Debug\project.pdb
-C:\Users\Conductus\Documents\GitHub\squidilicious\project\project\bin\WindowsGL\Debug\Lidgren.Network.dll
-C:\Users\Conductus\Documents\GitHub\squidilicious\project\project\bin\WindowsGL\Debug\MonoGame.Framework.dll
-C:\Users\Conductus\Documents\GitHub\squidilicious\project\project\bin\WindowsGL\Debug\OpenTK.dll
-C:\Users\Conductus\Documents\GitHub\squidilicious\project\project\bin\WindowsGL\Debug\Tao.Sdl.dll
-C:\Users\Conductus\Documents\GitHub\squidilicious\project\project\obj\x86\Debug\project.exe
-C:\Users\Conductus\Documents\GitHub\squidilicious\project\project\obj\x86\Debug\project.pdb

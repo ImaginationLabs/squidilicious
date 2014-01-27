@@ -1,20 +1,18 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Express 2012 for Windows Desktop
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "project", "project\project.csproj", "{6EAC7AE4-C685-4445-98E5-3039F0A2D7D5}"
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "project", "project.csproj", "{02FC1C63-07B3-4710-AA1C-64E36063FEE9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|x86 = Debug|x86
-		Release|x86 = Release|x86
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{6EAC7AE4-C685-4445-98E5-3039F0A2D7D5}.Debug|x86.ActiveCfg = Debug|x86
-		{6EAC7AE4-C685-4445-98E5-3039F0A2D7D5}.Debug|x86.Build.0 = Debug|x86
-		{6EAC7AE4-C685-4445-98E5-3039F0A2D7D5}.Release|x86.ActiveCfg = Release|x86
-		{6EAC7AE4-C685-4445-98E5-3039F0A2D7D5}.Release|x86.Build.0 = Release|x86
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
+		{02FC1C63-07B3-4710-AA1C-64E36063FEE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02FC1C63-07B3-4710-AA1C-64E36063FEE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02FC1C63-07B3-4710-AA1C-64E36063FEE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02FC1C63-07B3-4710-AA1C-64E36063FEE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 EndGlobal
