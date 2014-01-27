@@ -1,0 +1,10 @@
+C:\Users\Conductus\Documents\GitHub\squidilicious\project\project\bin\WindowsGL\Release\SDL.dll
+C:\Users\Conductus\Documents\GitHub\squidilicious\project\project\bin\WindowsGL\Release\project.exe
+C:\Users\Conductus\Documents\GitHub\squidilicious\project\project\bin\WindowsGL\Release\project.pdb
+C:\Users\Conductus\Documents\GitHub\squidilicious\project\project\bin\WindowsGL\Release\Lidgren.Network.dll
+C:\Users\Conductus\Documents\GitHub\squidilicious\project\project\bin\WindowsGL\Release\MonoGame.Framework.dll
+C:\Users\Conductus\Documents\GitHub\squidilicious\project\project\bin\WindowsGL\Release\OpenTK.dll
+C:\Users\Conductus\Documents\GitHub\squidilicious\project\project\bin\WindowsGL\Release\Tao.Sdl.dll
+C:\Users\Conductus\Documents\GitHub\squidilicious\project\project\obj\x86\Release\project.csprojResolveAssemblyReference.cache
+C:\Users\Conductus\Documents\GitHub\squidilicious\project\project\obj\x86\Release\project.exe
+C:\Users\Conductus\Documents\GitHub\squidilicious\project\project\obj\x86\Release\project.pdb
