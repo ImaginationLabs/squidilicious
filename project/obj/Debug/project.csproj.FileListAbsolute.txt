@@ -1,0 +1,5 @@
+C:\Users\Conductus\Documents\GitHub\squidilicious\project\bin\Debug\project.exe
+C:\Users\Conductus\Documents\GitHub\squidilicious\project\bin\Debug\project.pdb
+C:\Users\Conductus\Documents\GitHub\squidilicious\project\obj\Debug\project.csprojResolveAssemblyReference.cache
+C:\Users\Conductus\Documents\GitHub\squidilicious\project\obj\Debug\project.exe
+C:\Users\Conductus\Documents\GitHub\squidilicious\project\obj\Debug\project.pdb
